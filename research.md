@@ -8,6 +8,8 @@ This project is a multiple choice project that will allow you to evaluate your n
 <details>
 **<summary>What is an IP address</summary>**
 
+<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="150"/>
+
 [IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
 
 [Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
@@ -20,8 +22,6 @@ These IP addresses are sent as a series of 1's and 0's.
 As a result, the 192.168.1.1. represents an IP address that has 32-bits (each number before the "." is represented as 8 bits). To slow down the rate at which IP addresses are used up, Network Address Translation (NAT) takes multiple addresses from inside the network and presents a single IP addresses that points out to the Internet. 
 
 The Internet has an exact set of guidelines that needs to be followed by a device to connect to it. These guides are known as **protocol**. Every website, such as www.google.com, has a unique IP address that is masked by the website name.
-
-<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="250"/>
 
 There are two main types of IP addresses: IPv4 and IPv6.
 
