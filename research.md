@@ -21,7 +21,7 @@ As a result, the 192.168.1.1. represents an IP address that has 32-bits (each nu
 
 The Internet has an exact set of guidelines that needs to be followed by a device to connect to it. These guides are known as **protocol**. Every website, such as www.google.com, has a unique IP address that is masked by the website name.
 
-<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="500"/>
+<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="250"/>
 
 There are two main types of IP addresses: IPv4 and IPv6.
 
