@@ -6,13 +6,7 @@ This project is a multiple choice project that will allow you to evaluate your n
 ## Review: Questions & Answers
 
 <details>
-**<summary>What is an IP address</summary>**
-
-<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="150"/>
-
-[IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
-
-[Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
+<summary>What is an IP address?</summary>
 
 IP Addresses are similar to your home address but for your computer. IP addresses are unique series of numbers that identify who you are. An example of an IP address is: 192.168.1.1. You are constantly sending messages to the youtube.server.ip.address and are receiving return messages from the server onto your computer. Each computer have a unique IP address, similar to how a house has
 a unique home address.
@@ -34,6 +28,12 @@ There are two main types of IP addresses: IPv4 and IPv6.
 When IP addresses was running out, IPv6 was formed to offer the maximum number of IP addresses that will, in theory, not run out. It consists of 8 groups of 4 hexadecimal digits
 
 In short, IP addresses allow you to communicate with other devices over the Internet.
+
+**References**
+
+[IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
+
+[Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
 </details>
 
 <details>
