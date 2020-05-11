@@ -6,8 +6,10 @@ This project is a multiple choice project that will allow you to evaluate your n
 ## Review: Questions & Answers
 
 <details>
-<summary>what is an ip address</summary>
+**<summary>What is an IP address</summary>**
+
 [IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
+
 [Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
 
 IP Addresses are similar to your home address but for your computer. IP addresses are unique series of numbers that identify who you are. An example of an IP address is: 192.168.1.1. You are constantly sending messages to the youtube.server.ip.address and are receiving return messages from the server onto your computer. Each computer have a unique IP address, similar to how a house has
@@ -19,14 +21,16 @@ As a result, the 192.168.1.1. represents an IP address that has 32-bits (each nu
 
 The Internet has an exact set of guidelines that needs to be followed by a device to connect to it. These guides are known as **protocol**. Every website, such as www.google.com, has a unique IP address that is masked by the website name.
 
-<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="100"/>
+<img src="https://www.computerhope.com/jargon/i/ip-address.gif" width="500"/>
 
 There are two main types of IP addresses: IPv4 and IPv6.
 
 **IPv4: 66.171.248.170** (example)
+
 4 groups of numbers (as previously mentioned above) that can range from 0 to 255.
 
 **IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334** (example)
+
 When IP addresses was running out, IPv6 was formed to offer the maximum number of IP addresses that will, in theory, not run out. It consists of 8 groups of 4 hexadecimal digits
 
 In short, IP addresses allow you to communicate with other devices over the Internet.
@@ -96,6 +100,5 @@ In short, IP addresses allow you to communicate with other devices over the Inte
 <summary>What is aport from an IP point of view and what is it used for when connecting to another device?</summary>
 </details>
 
-Now that you are finished reviewing, go to the website [netwhat.42.fr](https://netwhat.42.fr/) and login using your intra.
-
 ## Quiz: Questions & Answers
+Now that you are finished reviewing, go to the website [netwhat.42.fr](https://netwhat.42.fr/) and login using your intra.
