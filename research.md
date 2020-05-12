@@ -6,7 +6,7 @@ This project is a multiple choice project that will allow you to evaluate your n
 ## Review: Questions & Answers
 
 <details>
-<summary>What is an IP address?</summary>
+## <summary>What is an IP address?</summary>
 
 IP Addresses are similar to your home address but for your computer. IP addresses are unique series of numbers that identify who you are. An example of an IP address is: 192.168.1.1. You are constantly sending messages to the youtube.server.ip.address and are receiving return messages from the server onto your computer. Each computer have a unique IP address, similar to how a house has
 a unique home address.
@@ -33,9 +33,9 @@ In short, IP addresses allow you to communicate with other devices over the Inte
 
 **References**
 
-[IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
+1. [IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
 
-[Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
+2. [Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
 </details>
 
 <details>
