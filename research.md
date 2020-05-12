@@ -6,7 +6,9 @@ This project is a multiple choice project that will allow you to evaluate your n
 ## Review: Questions & Answers
 
 <details>
-## <summary>What is an IP address?</summary>
+<summary>What is an IP address?</summary>
+
+------------------------------------------
 
 IP Addresses are similar to your home address but for your computer. IP addresses are unique series of numbers that identify who you are. An example of an IP address is: 192.168.1.1. You are constantly sending messages to the youtube.server.ip.address and are receiving return messages from the server onto your computer. Each computer have a unique IP address, similar to how a house has
 a unique home address.
@@ -20,6 +22,7 @@ The Internet has an exact set of guidelines that needs to be followed by a devic
 There are two main types of IP addresses: IPv4 and IPv6.
 
 **IPv4: 66.171.248.170** 
+==============================================
 
 4 groups of numbers (as previously mentioned above) that can range from 0 to 255.
 
