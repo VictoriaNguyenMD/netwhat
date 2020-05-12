@@ -10,6 +10,8 @@ This project is a multiple choice project that will allow you to evaluate your n
 
 ---
 
+<blockquote>
+
 IP Addresses are similar to your home address but for your computer. IP addresses are unique series of numbers that identify who you are. An example of an IP address is: 192.168.1.1. You are constantly sending messages to the youtube.server.ip.address and are receiving return messages from the server onto your computer. Each computer have a unique IP address, similar to how a house has
 a unique home address.
 
@@ -20,6 +22,8 @@ As a result, the 192.168.1.1. represents an IP address that has 32-bits (each nu
 The Internet has an exact set of guidelines that needs to be followed by a device to connect to it. These guides are known as **protocol**. Every website, such as www.google.com, has a unique IP address that is masked by the website name.
 
 There are two main types of IP addresses: IPv4 and IPv6.
+
+</blockquote>
 
 **IPv4: 66.171.248.170** 
 
