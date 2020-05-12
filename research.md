@@ -22,22 +22,22 @@ There are two main types of IP addresses: IPv4 and IPv6.
 
 **IPv4: 66.171.248.170** 
 
-4 groups of numbers (as previously mentioned above) that can range from 0 to 255.
+> 4 groups of numbers (as previously mentioned
+above) that can range from 0 to 255.
 
 **IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334** 
 
-When IP addresses was running out, IPv6 was formed to offer the maximum number of IP addresses that will, in theory, not run out. It consists of 8 groups of 4 hexadecimal digits
+> When IP addresses was running out, IPv6 was formed to offer the maximum number of IP addresses that will, in theory, not run out. It consists of 8 groups of 4 hexadecimal digits
 
 In short, IP addresses allow you to communicate with other devices over the Internet.
-
-</blockquote>
-
 
 **References**
 
 1. [IP addresses. explained](https://www.youtube.com/watch?v=7_-qWlvQQtY)
 
 2. [Basic Understanding of IP Addresses](https://whatismyipaddress.com/ip-address)
+
+</blockquote>
 </details>
 
 <details>
